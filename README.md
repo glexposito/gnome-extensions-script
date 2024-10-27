@@ -1,6 +1,6 @@
 # GNOME Extensions Installation Script
 
-This repository contains a shell script to automate the installation of a set of my preferred GNOME Shell extensions. The script checks if each extension is already installed, and if not, it installs and enables the extension. Extensions already installed will be skipped, and only newly installed extensions will be enabled.
+This repository contains a shell script to automate the installation of my preferred GNOME Shell extensions. The script checks if each extension is already installed; if not, it installs and enables the extension. Extensions that are already installed will be skipped, and only newly installed extensions will be enabled.
 
 ## Script Overview
 
